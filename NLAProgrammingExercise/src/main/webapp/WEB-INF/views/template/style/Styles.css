@@ -1,0 +1,25 @@
+body, input {
+	font-family: Calibri, Arial;
+	margin: 0px;
+	padding: 0px;
+}
+
+#header h2 {
+	color: white;
+	background-color: #3275A8;
+	height: 75px;
+	padding: 5px;
+	font-size: 20px;
+}
+
+#footer h2 {
+	color: white;
+	background-color: #3275A8;
+	height: 50px;
+	padding: 5px;
+	font-size: 12px;
+}
+
+div.hidden {
+  display: none;
+}
